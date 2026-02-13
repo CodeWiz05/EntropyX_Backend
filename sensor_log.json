@@ -1,0 +1,224 @@
+[
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 5,
+    "original_value": -999,
+    "corrected_value": 106.5,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T05:33:17.872087"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 12,
+    "original_value": 0,
+    "corrected_value": 114.0,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T05:33:17.874088"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 20,
+    "value": 850,
+    "previous_value": 119,
+    "change": 731,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T05:33:17.911179"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 21,
+    "value": 119,
+    "previous_value": 850,
+    "change": 731,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T05:33:17.949871"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 5,
+    "original_value": -999,
+    "corrected_value": 107.5,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T07:10:39.043193"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 12,
+    "original_value": 0,
+    "corrected_value": 106.5,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T07:10:39.110877"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 20,
+    "value": 850,
+    "previous_value": 116,
+    "change": 734,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:10:39.193475"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 21,
+    "value": 96,
+    "previous_value": 850,
+    "change": 754,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:10:39.290235"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 5,
+    "original_value": -999,
+    "corrected_value": 116.5,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T07:11:57.601570"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 12,
+    "original_value": 0,
+    "corrected_value": 114.0,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T07:11:57.641527"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 20,
+    "value": 850,
+    "previous_value": 118,
+    "change": 732,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:11:57.688529"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 20,
+    "value": 850,
+    "previous_value": 110,
+    "change": 740,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:11:57.696527"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 21,
+    "value": 115,
+    "previous_value": 850,
+    "change": 735,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:11:57.774291"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 21,
+    "value": 119,
+    "previous_value": 850,
+    "change": 731,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:11:57.788405"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 5,
+    "original_value": -999,
+    "corrected_value": 112.0,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T07:12:50.235353"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 12,
+    "original_value": 0,
+    "corrected_value": 108.5,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T07:12:50.272059"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 20,
+    "value": 850,
+    "previous_value": 116,
+    "change": 734,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:12:50.308353"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 21,
+    "value": 101,
+    "previous_value": 850,
+    "change": 749,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:12:50.345000"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 5,
+    "original_value": -999,
+    "corrected_value": 106.5,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T07:14:15.640473"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 12,
+    "original_value": 0,
+    "corrected_value": 113.0,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T07:14:15.687242"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 20,
+    "value": 850,
+    "previous_value": 124,
+    "change": 726,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:14:15.730110"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 21,
+    "value": 115,
+    "previous_value": 850,
+    "change": 735,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:14:15.779455"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 5,
+    "original_value": -999,
+    "corrected_value": 112.5,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T07:26:04.449101"
+  },
+  {
+    "type": "NULL_VALUE",
+    "timestamp": 12,
+    "original_value": 0,
+    "corrected_value": 120.5,
+    "method": "linear_interpolation",
+    "logged_at": "2026-02-13T07:26:04.480209"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 20,
+    "value": 850,
+    "previous_value": 98,
+    "change": 752,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:26:04.503988"
+  },
+  {
+    "type": "OUTLIER_DETECTED",
+    "timestamp": 21,
+    "value": 110,
+    "previous_value": 850,
+    "change": 740,
+    "action": "excluded_from_training",
+    "logged_at": "2026-02-13T07:26:04.527391"
+  }
+]

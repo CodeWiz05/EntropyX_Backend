@@ -1,0 +1,58 @@
+# 🚫 Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# 🚫 Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# 🚫 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# 🚫 VS Code settings
+.vscode/
+*.code-workspace
+
+# 🚫 PyCharm settings
+.idea/
+*.iml
+
+# 🚫 macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# 🚫 Logs (keep only latest if needed)
+*.log
+# !sensor_log.json  ← Uncomment if you want to KEEP sensor logs
+
+# 🚫 Temporary GeoJSON files (optional - keep latest)
+geojson_output_*.geojson
+!hyderabad_complete_with_ai.geojson  ← KEEP this one
+
+# 🚫 Environment variables
+.env
+*.env
+
+# 🚫 Model backups (optional)
+*.h5.bak
+*.pkl.bak
+
+# 🚫 Distribution packages
+*.egg-info/
+dist/
+build/
+
+# 🚫 Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*.cover
