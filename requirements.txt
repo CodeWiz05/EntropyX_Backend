@@ -1,0 +1,23 @@
+# ============================================
+# AIR MODULE - DEPENDENCIES
+# ============================================
+
+# 📡 API & Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+requests==2.31.0
+
+# 🧮 Data Processing
+numpy==1.24.3
+pandas==2.0.3
+
+# 🤖 Machine Learning - TensorFlow (CPU version for compatibility)
+tensorflow-cpu==2.13.0
+scikit-learn==1.3.0
+joblib==1.3.2
+
+# 📊 Visualization (Optional - for forecast charts)
+matplotlib==3.7.2
+
+# 🛠️ Utilities
+python-dotenv==1.0.0
